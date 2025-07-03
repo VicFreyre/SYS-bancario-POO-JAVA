@@ -17,7 +17,7 @@ src/
 `git clone https://github.com/VicFreyre/SYS-bancario-POO-JAVA.git`
 
 2. Navegue até a pasta src:  
-`cd SEU_REPOSITORIO/src`
+`cd SYS-bancario-POO-JAVA/src`
 
 3. Compile os arquivos:  
 `javac models/*.java Main.java`
